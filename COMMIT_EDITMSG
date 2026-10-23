@@ -1,0 +1,11 @@
+Add waitlist, analytics events and share images
+
+- Waitlist for Portfolio check with investor/distributor split, honeypot,
+  Cloudflare Pages Function storing to KV, and a token-protected CSV export
+- Cookieless analytics layer (Plausible or Umami via config.js) with events
+  for activation, CTAs, searches, shares and sign-ups
+- Share as image: 1200x630 result cards for Plan, Goal and Backtest, using the
+  share sheet on phones; og.png and large-image preview tags for links
+- Privacy notice draft, local dev server, set_site_url tool, deploy docs
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 11ceb6395273bf9c412bce08ee94b64f477bd0dd Sharik Ahamed S <sharik.syedahamed@gmail.com> 1792721905 +0530	commit (initial): SIP Compass: SIP planner with goal solver and live NAV backtests
+11ceb6395273bf9c412bce08ee94b64f477bd0dd b11e7e0d9eedf8c8d29fe1847878d52e9d194c6f Sharik Ahamed S <sharik.syedahamed@gmail.com> 1792722664 +0530	commit: Make figures accurate: daily NAVs, stamp duty, exit load, lot-level tax, market range
+b11e7e0d9eedf8c8d29fe1847878d52e9d194c6f 5aa8f0b645435392c0ce756a025613e28cac515c Sharik Ahamed S <sharik.syedahamed@gmail.com> 1792739148 +0530	commit: Redesign as a product landing page and add startup roadmap
+5aa8f0b645435392c0ce756a025613e28cac515c 5b3ee2a804ffa1fb5d36c751f9df8e36b0feb262 Sharik Ahamed S <sharik.syedahamed@gmail.com> 1792739694 +0530	commit: Add waitlist, analytics events and share images
